@@ -15,12 +15,15 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   i = int(random(adjList.length));
   j = int(random(nounList.length));
+  colorMode(HSB, 360, 100, 100);
+  textFont('VT323');
 }
 
 function draw() {
-  background(200);
-  textAlign(CENTER)
-  textSize(width*.1)
-  text(adjList[i], width/2, height/2 - 50)
-  text(nounList[j], width/2, height/2 + 50)
+  background(175, 100, 75);
+  fill(0, 100, 100);
+  textAlign(CENTER);
+  textSize(width*.1);
+  text(adjList[i], width/2, height/2 - 50);
+  text(nounList[j], width/2, height/2 + 50);
 }
