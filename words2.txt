@@ -10,3 +10,12 @@ light
 fiber
 foxglove
 laurel
+feline
+notion
+system
+rose
+weaving
+beat
+cord
+stem
+assertion
