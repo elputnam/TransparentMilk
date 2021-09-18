@@ -29,3 +29,10 @@ elderflower
 pixelated
 moonshine
 aspirations
+text
+marks
+traces
+gestures
+fragments
+shards
+pieces
