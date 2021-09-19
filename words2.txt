@@ -29,3 +29,8 @@ elderflower
 pixelated
 moonshine
 aspirations
+machine
+crisis
+object
+logic
+tragedy
