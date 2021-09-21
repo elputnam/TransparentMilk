@@ -1,3 +1,3 @@
 # Artwork title generator
 
-For use in generative project by EL Putnam
+For use in generative project by EL Putnam.
