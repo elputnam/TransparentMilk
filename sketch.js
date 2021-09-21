@@ -1,4 +1,4 @@
-//Title generator
+//Art work Title generator
 var adj;
 var noun;
 var adjList = [];

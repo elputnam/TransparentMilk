@@ -39,3 +39,8 @@ pieces
 functions
 choice
 being
+machine
+crisis
+object
+logic
+tragedy
