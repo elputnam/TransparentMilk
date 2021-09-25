@@ -68,3 +68,7 @@ irreducible
 reductive
 minimal
 silent
+technicolor
+shimmering
+indeterminate
+potential
