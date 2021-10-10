@@ -72,3 +72,15 @@ technicolor
 shimmering
 indeterminate
 potential
+Uncertain
+Opaque
+Translucent
+Appropriated
+Appropriate
+Aquamarine
+Teal
+Mauve
+Puce
+Fantasy
+Fancy
+Super
