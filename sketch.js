@@ -27,3 +27,8 @@ function draw() {
   text(adjList[i], width/2, height/2 - 50);
   text(nounList[j], width/2, height/2 + 50);
 }
+
+function mousePressed(){
+  i = int(random(adjList.length));
+  j = int(random(nounList.length));
+}
