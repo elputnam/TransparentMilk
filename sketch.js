@@ -32,3 +32,7 @@ function mousePressed(){
   i = int(random(adjList.length));
   j = int(random(nounList.length));
 }
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
