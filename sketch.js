@@ -26,6 +26,10 @@ function draw() {
   textSize(width*.1);
   text(adjList[i], width/2, height/2 - 50);
   text(nounList[j], width/2, height/2 + 50);
+  if (frameCount%200==0){
+    i = int(random(adjList.length));
+    j = int(random(nounList.length));
+  }
 }
 
 function mousePressed(){
