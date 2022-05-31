@@ -5,8 +5,10 @@ var adjList = [];
 var nounList = [];
 let i = 0;
 let j = 0;
+let emergeFont;
 
 function preload(){
+  emergeFont = loadFont('data/VT323-Regular.ttf')
   adjList = loadStrings('words1.txt');
   nounList = loadStrings('words2.txt');
 }
@@ -16,7 +18,7 @@ function setup() {
   i = int(random(adjList.length));
   j = int(random(nounList.length));
   colorMode(HSB, 360, 100, 100);
-  textFont('VT323');
+  textFont(emergeFont);
 }
 
 function draw() {
