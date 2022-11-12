@@ -90,3 +90,10 @@ feelings
 sleep
 android
 game
+performance-machine
+prohibition
+disturbance
+achievement
+consequence
+exhaustion
+exclamation
