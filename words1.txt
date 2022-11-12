@@ -105,3 +105,6 @@ tired
 loose
 excess
 divisive
+toxic
+traumatic
+patient
