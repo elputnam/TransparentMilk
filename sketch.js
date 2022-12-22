@@ -37,7 +37,11 @@ function draw() {
 function mousePressed(){
   i = int(random(adjList.length));
   j = int(random(nounList.length));
-}
+
+  let fs = fullscreen();
+  fullscreen(!fs);
+  }
+  
 
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
